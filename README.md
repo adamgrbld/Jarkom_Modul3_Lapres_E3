@@ -60,6 +60,13 @@
     
   - service isc-dhcp-server restart
     
+- GRESIK
+  - ip a
+  
+    ![HasilGresik](https://github.com/adamgrbld/Jarkom_Modul3_Lapres_E3/blob/main/image/HasilGresik.png)
+- SIDOARJO
+  -ip a
+    ![HasilSidoarjo](https://github.com/adamgrbld/Jarkom_Modul3_Lapres_E3/blob/main/image/HasilSidoarjo.png)
 **4. Client pada subnet 3 mendapatkan range IP dari 192.168.1.50 sampai 192.168.1.70**
 
 - TUBAN
@@ -69,6 +76,16 @@
     
   - service isc-dhcp-server restart
   
+- BANYUWANGI
+    - ip a
+    
+    [HasilBanyuwangi](https://github.com/adamgrbld/Jarkom_Modul3_Lapres_E3/blob/main/image/HasilBanyuwangi.png)
+    
+- MADIUN
+  - ip a
+    
+    [HasilMadiun](https://github.com/adamgrbld/Jarkom_Modul3_Lapres_E3/blob/main/image/HasilMadiun.png)
+    
 **5. Client mendapatkan DNS Malang dan DNS 202.46.129.2 dari DHCP**
  
 - UML Client
