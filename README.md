@@ -63,10 +63,10 @@
 - GRESIK
   - ip a
   
-    ![HasilGresik](https://github.com/adamgrbld/Jarkom_Modul3_Lapres_E3/blob/main/image/HasilGresik.png)
+    ![HasilGresik](https://github.com/adamgrbld/Jarkom_Modul3_Lapres_E3/blob/main/image/HasilGresik.jpg)
 - SIDOARJO
   -ip a
-    ![HasilSidoarjo](https://github.com/adamgrbld/Jarkom_Modul3_Lapres_E3/blob/main/image/HasilSidoarjo.png)
+    ![HasilSidoarjo](https://github.com/adamgrbld/Jarkom_Modul3_Lapres_E3/blob/main/image/HasilSidoarjo.jpg)
 **4. Client pada subnet 3 mendapatkan range IP dari 192.168.1.50 sampai 192.168.1.70**
 
 - TUBAN
@@ -79,12 +79,12 @@
 - BANYUWANGI
     - ip a
     
-    [HasilBanyuwangi](https://github.com/adamgrbld/Jarkom_Modul3_Lapres_E3/blob/main/image/HasilBanyuwangi.png)
+    [HasilBanyuwangi](https://github.com/adamgrbld/Jarkom_Modul3_Lapres_E3/blob/main/image/HasilBanyuwangi.jpg)
     
 - MADIUN
   - ip a
     
-    [HasilMadiun](https://github.com/adamgrbld/Jarkom_Modul3_Lapres_E3/blob/main/image/HasilMadiun.png)
+    [HasilMadiun](https://github.com/adamgrbld/Jarkom_Modul3_Lapres_E3/blob/main/image/HasilMadiun.jpg)
     
 **5. Client mendapatkan DNS Malang dan DNS 202.46.129.2 dari DHCP**
  
